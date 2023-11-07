@@ -1,0 +1,22 @@
+{
+  "name": "BBB",
+  "symbol": "BBB",
+  "description": "A brief description of the asset",
+  "seller_fee_basis_points": 100, // 卖家费用，表示1%
+  "image": "https://raw.githubusercontent.com/yanjingzhan/ReadingReading/master/token.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/yanjingzhan/ReadingReading/master/token.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2kCATzy69sGjfzyTac7fp7shpiXXZvqLfxwryVrQHEzA",
+        "share": 100
+      }
+    ]
+  }
+}
